@@ -1,5 +1,3 @@
-# UTF16-To-UTF8-Converter
-
 # Compilation Command
 gcc -o utf16to8 utf16to8.c
 
