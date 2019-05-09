@@ -1,8 +1,8 @@
 # UTF16-To-UTF8-Converter
 A simple converter
 
-## Compilation Command
+## Compile
     $ gcc -o utf16to8 utf16to8.c
 
-## Execution Command
+## Run
     $ ./utf16to8 < SAMPLEutf16.txt
