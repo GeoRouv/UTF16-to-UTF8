@@ -1,4 +1,4 @@
-# UTF16-To-UTF8-Converter
+# UTF16-to-UTF8-converter
 A simple converter
 
 ## Compile
